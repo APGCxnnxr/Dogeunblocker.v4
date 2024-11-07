@@ -33,7 +33,7 @@ function live() {
         applyTheme('rgba(39, 81, 109, 0.521)', "linear-gradient(to right, rgb(14, 132, 211), rgb(113, 11, 209))");
         break;
       case 'SFMS':
-        applyTheme('rgba(255, 0, 0, 0.521)', "linear-gradient(to right, rgb(0, 0, 0), rgb(0, 0, 0))");
+        applyTheme('rgba(255, 0, 0, 0.521)', "linear-gradient(to right, rgb(0, 0, 0), rgb(255, 0, 0))");
         break;
       case 'magma':
         applyTheme('rgb(24 24 24 / 32%)', "linear-gradient(to right, rgb(0, 0, 0), rgb(223, 59, 10))");
@@ -42,7 +42,7 @@ function live() {
         applyTheme('rgb(24 24 24 / 32%)', "linear-gradient(to bottom, rgb(211, 112, 19), rgb(92, 16, 179))");
         break;
       default:
-        applyTheme('rgba(19, 34, 48, 0.8)', "linear-gradient(to bottom right, rgb(16, 52, 82), rgb(9, 34, 55), black)");
+          applyTheme('rgba(255, 0, 0, 0.521)', "linear-gradient(to right, rgb(0, 0, 0), rgb(255, 0, 0))");
     }
   }
   /* Ripple Effect for buttons */
