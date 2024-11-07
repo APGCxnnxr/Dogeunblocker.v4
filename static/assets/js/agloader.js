@@ -34,9 +34,11 @@ if (selectedTheme === 'deepsea') {
     urlBar.style.background = "rgb(27, 27, 27)";
 } else if (selectedTheme === null) {
     urlBar.style.background = "rgb(6, 22, 35)";
-} else {
+} else if (selectedTheme === SFMS) {
+    urlBar.style.background = "rgb(255,0 , 0)";}
+else {
     urlBar.style.background = "rgb(6, 22, 35)";
-}
+} 
 
 var devToolsLoaded = false;
 
