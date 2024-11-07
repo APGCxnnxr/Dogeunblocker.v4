@@ -32,6 +32,9 @@ function live() {
       case 'starry':
         applyTheme('rgba(39, 81, 109, 0.521)', "linear-gradient(to right, rgb(14, 132, 211), rgb(113, 11, 209))");
         break;
+      case 'SFMS':
+        applyTheme('rgba(255, 0, 0, 0.521)', "linear-gradient(to right, rgb(0, 0, 0), rgb(0, 0, 0))");
+        break;
       case 'magma':
         applyTheme('rgb(24 24 24 / 32%)', "linear-gradient(to right, rgb(0, 0, 0), rgb(223, 59, 10))");
         break;
