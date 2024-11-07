@@ -1,12 +1,6 @@
 
 ## Doge Unblocker
-To Add custom Themes, copy this code to the corisponding file:
-themes.js : <break>
-case 'Theme name': <break>
-        applyTheme('rgba(255, 0, 0, 0.521)', "linear-gradient(to right, rgb(0, 0, 0), rgb(255, 0, 0))"); <break>
-                           Change ^ to the color you want
-settings.html
-<option value="Theme Name" class="option" style="color:black;">Theme name</option>
+
 
 
 Doge Unblocker is a site unblocker powered by [Ultraviolet](https://github.com/titaniumnetwork-dev/Ultraviolet). Our service allows you to **get around internet restrictions** to visit your favorite sites and apps, without worrying about your browsing history being saved or your internet being blocked. 
