@@ -1,5 +1,5 @@
 (function() {
-    var defaultTitle = '(1) SalyteLearn';
+    var defaultTitle = 'SFMS Unblocker';
     var defaultIcon = '/assets/img/salyte.jpg';
     var storedTitle = localStorage.getItem('tabTitle') || defaultTitle;
     var storedIcon = localStorage.getItem('tabIcon') || defaultIcon;
