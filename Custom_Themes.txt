@@ -1,7 +1,8 @@
 To Add custom Themes, copy this code to the corisponding file:
-themes.js : <break>
+themes.js : 
 case 'Theme name': <break>
-        applyTheme('rgba(255, 0, 0, 0.521)', "linear-gradient(to right, rgb(0, 0, 0), rgb(255, 0, 0))"); <break>
-                           Change ^ to the color you want
+        applyTheme('rgba(255, 0, 0, 0.521)', "linear-gradient(to right, rgb(0, 0, 0), rgb(255, 0, 0))");
+                           Change ^ to the color you want                      ^               ^
+
 settings.html
 <option value="Theme Name" class="option" style="color:black;">Theme name</option>
