@@ -57,5 +57,5 @@ function rbx() {
 }
 function ESCR() {
   alert(`This is me testing this function. If you see this, it means it worked`);
-  openAg('https://1games.io/game/escape-road/');
+  openAg('/Escape Road/Escape Road Code.html/');
 }
