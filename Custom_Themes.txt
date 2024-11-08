@@ -1,6 +1,6 @@
 To Add custom Themes, copy this code to the corisponding file:
 themes.js : 
-case 'Theme name': <break>
+case 'Theme name': 
         applyTheme('rgba(255, 0, 0, 0.521)', "linear-gradient(to right, rgb(0, 0, 0), rgb(255, 0, 0))");
                            Change ^ to the color you want                      ^               ^
 
