@@ -55,7 +55,4 @@ function rbx() {
   alert(`This app might not work as expected. Refresh the page if it detects a VPN.`);
   openAg('https://educationbluesky.com/apps/roblox-corporation/5349/roblox.html');
 }
-function ESCR() {
-  alert(`This is me testing this function. If you see this, it means it worked`);
-  openAg('https://1games.io/game/escape-road/');
-}
+
